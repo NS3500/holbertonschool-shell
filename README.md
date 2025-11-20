@@ -1,1 +1,1 @@
-# schell
+Basics scripts for Holberton
